@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bee60990
+- 👋 Hi, I’m Julia
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
